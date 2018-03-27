@@ -1,0 +1,37 @@
+{
+    "id":"1.1.1",
+    "data": [
+        {
+            "content": "Ventajas de usar Visual Studio Code",
+            "type": "title"
+        },
+        {
+            "content": "Es un editor open-source (totalmente gratuito) y multiplataforma, es decir, que está disponible para Window. Mac y Linux.",
+            "type": "list"
+        },
+        {
+            "content": "A diferencia de otras herramientas para escribir de código, Visual Studio Code tiene un muy bajo consumo de recursos del ordenador donde se esté ejecutando, por lo que no necesitamos un ordenador muy potente para programar…",
+            "type": "list"
+        },
+        {
+            "content": "Tiene curva de aprendizaje muy baja. Se tarda muy poco tiempo en aprender a usarlo con cierta soltura.",
+            "type": "list"
+        },
+        {
+            "content": "Es muy customizable, por lo que los usuarios pueden cambiar el tema del editor, los atajos de teclado y las preferencias",
+            "type": "list"
+        },
+        {
+            "content": "Viene con control integrado de Git y herramientas de depuración de código.",
+            "type": "list"
+        },
+        {
+            "content": "Tiene un sistema Intellisense, que facilita y agiliza el trabajo con código.",
+            "type": "list"
+        },
+        {
+            "content": "Permite trabajar con diferentes lenguajes de programación.",
+            "type": "list"
+        }
+    ]
+}
