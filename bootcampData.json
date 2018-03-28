@@ -19,7 +19,7 @@
                     "studentId": "1.1",
                     "data": {
                         "dni":{"label":"dni","content":"45898705B"},
-                        "domicilio":{"label":"dni","content":"Santo Ángel, 48 3:F"},
+                        "domicilio":{"label":"domicilio","content":"Santo Ángel, 48 3:F"},
                         "email":{"label":"email","content":"roperezfe@gmail.com"},
                         "telefono":{"label":"teléfono","content":"645876212"},
                         "fechaNacimiento":{"label":"fecha de nacimiento","content":"15/03/1990"},
@@ -76,7 +76,7 @@
                     "description": "Juan es sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
                     "data": {
                         "dni":{"label":"dni","content":"43228705C"},
-                        "domicilio":{"label":"dni","content":"Alcala, 8 1:A"},
+                        "domicilio":{"label":"domicilio","content":"Alcala, 8 1:A"},
                         "email":{"label":"email","content":"juanma8754fe@gmail.com"},
                         "telefono":{"label":"teléfono","content":"625116001"},
                         "fechaNacimiento":{"label":"fecha de nacimiento","content":"24/10/1985"},
@@ -131,7 +131,7 @@
                     "description": "Laura es sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
                     "data": {
                         "dni":{"label":"dni","content":"40218715A"},
-                        "domicilio":{"label":"dni","content":"Quintana, 4 5:B"},
+                        "domicilio":{"label":"domicilio","content":"Quintana, 4 5:B"},
                         "email":{"label":"email","content":"laurancampocho@gmail.com"},
                         "telefono":{"label":"teléfono","content":"625116001"},
                         "fechaNacimiento":{"label":"fecha de nacimiento","content":"02/04/1991"},
@@ -186,7 +186,7 @@
                     "description": "Roberto es sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
                     "data": {
                         "dni":{"label":"dni","content":"41124877D"},
-                        "domicilio":{"label":"dni","content":"Luchana 24, 4:A"},
+                        "domicilio":{"label":"domicilio","content":"Luchana 24, 4:A"},
                         "email":{"label":"email","content":"robertoal89fe@gmail.com"},
                         "telefono":{"label":"teléfono","content":"674746331"},
                         "fechaNacimiento":{"label":"fecha de nacimiento","content":"01/05/1978"},
@@ -241,7 +241,7 @@
                     "description": "Alfredo es sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
                     "data": {
                         "dni":{"label":"dni","content":"42412145E"},
-                        "domicilio":{"label":"dni","content":"Costa Rica 20, 1:G"},
+                        "domicilio":{"label":"domicilio","content":"Costa Rica 20, 1:G"},
                         "email":{"label":"email","content":"alfmartinlorca@gmail.com"},
                         "telefono":{"label":"teléfono","content":"665020301"},
                         "fechaNacimiento":{"label":"fecha de nacimiento","content":"20/02/1980"},
@@ -296,7 +296,7 @@
                     "description": "Sara es sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
                     "data": {
                         "dni":{"label":"dni","content":"42349890A"},
-                        "domicilio":{"label":"dni","content":"De las Heras 2, 1:B"},
+                        "domicilio":{"label":"domicilio","content":"De las Heras 2, 1:B"},
                         "email":{"label":"email","content":"saritadelolmo1988@gmail.com"},
                         "telefono":{"label":"teléfono","content":"696987132"},
                         "fechaNacimiento":{"label":"fecha de nacimiento","content":"11/02/1985"},
