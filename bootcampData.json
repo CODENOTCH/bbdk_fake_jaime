@@ -18,7 +18,7 @@
                     "description": "Rocío es sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
                     "studentId": "1.1",
                     "data": {
-                        "dni":{"label":"dni","content":"45898705B"},
+                        "dni":{"label":"dni/pasaporte","content":"45898705B"},
                         "domicilio":{"label":"domicilio","content":"Santo Ángel, 48 3:F"},
                         "email":{"label":"email","content":"roperezfe@gmail.com"},
                         "telefono":{"label":"teléfono","content":"645876212"},
@@ -42,7 +42,6 @@
                         "facturacionEmpresa":{"label":"datos de facturación - empresa","content":"Everis"},
                         "facturacionCib":{"label":"datos de facturación - cif","content":"B89214511"},
                         "facturacionDireccion":{"label":"datos de facturación - dirección","content":"Av. Asturias, 45. 28974(Madrid)"}
-
                     },
 
                     "links": [
@@ -75,7 +74,7 @@
                     "studentId": "1.2",
                     "description": "Juan es sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
                     "data": {
-                        "dni":{"label":"dni","content":"43228705C"},
+                        "dni":{"label":"dni/pasaporte","content":"43228705C"},
                         "domicilio":{"label":"domicilio","content":"Alcala, 8 1:A"},
                         "email":{"label":"email","content":"juanma8754fe@gmail.com"},
                         "telefono":{"label":"teléfono","content":"625116001"},
@@ -130,7 +129,7 @@
                     "studentId": "1.3",
                     "description": "Laura es sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
                     "data": {
-                        "dni":{"label":"dni","content":"40218715A"},
+                        "dni":{"label":"dni/pasaporte","content":"40218715A"},
                         "domicilio":{"label":"domicilio","content":"Quintana, 4 5:B"},
                         "email":{"label":"email","content":"laurancampocho@gmail.com"},
                         "telefono":{"label":"teléfono","content":"625116001"},
@@ -185,7 +184,7 @@
                     "studentId": "1.4",
                     "description": "Roberto es sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
                     "data": {
-                        "dni":{"label":"dni","content":"41124877D"},
+                        "dni":{"label":"dni/pasaporte","content":"41124877D"},
                         "domicilio":{"label":"domicilio","content":"Luchana 24, 4:A"},
                         "email":{"label":"email","content":"robertoal89fe@gmail.com"},
                         "telefono":{"label":"teléfono","content":"674746331"},
@@ -240,7 +239,7 @@
                     "studentId": "1.5",
                     "description": "Alfredo es sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
                     "data": {
-                        "dni":{"label":"dni","content":"42412145E"},
+                        "dni":{"label":"dni/pasaporte","content":"42412145E"},
                         "domicilio":{"label":"domicilio","content":"Costa Rica 20, 1:G"},
                         "email":{"label":"email","content":"alfmartinlorca@gmail.com"},
                         "telefono":{"label":"teléfono","content":"665020301"},
@@ -295,7 +294,7 @@
                     "studentId": "1.6",
                     "description": "Sara es sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
                     "data": {
-                        "dni":{"label":"dni","content":"42349890A"},
+                        "dni":{"label":"dni/pasaporte","content":"42349890A"},
                         "domicilio":{"label":"domicilio","content":"De las Heras 2, 1:B"},
                         "email":{"label":"email","content":"saritadelolmo1988@gmail.com"},
                         "telefono":{"label":"teléfono","content":"696987132"},
