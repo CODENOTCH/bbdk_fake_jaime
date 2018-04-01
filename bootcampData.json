@@ -61,8 +61,8 @@
                     ],
                     "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/alumno1.jpg",
                     "weekComments":[
-                        {"week": "1", "comment":"", "confirmedComment":false},
-                        {"week": "2", "comment":"", "confirmedComment":false},
+                        {"week": "1", "comment":"Rocío ha empezado bastante bien, pese a que apenas tiene conocimientos previos, posée una enorme capacidad de esfuerzo.", "confirmedComment":true},
+                        {"week": "2", "comment":"Esta semana Rocío ha bajado un poco el listón y se ha notado en su ritmo de aprendizaje", "confirmedComment":true},
                         {"week": "3", "comment":"", "confirmedComment":false},
                         {"week": "4", "comment":"", "confirmedComment":false},
                         {"week": "5", "comment":"", "confirmedComment":false},
