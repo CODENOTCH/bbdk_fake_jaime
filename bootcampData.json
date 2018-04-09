@@ -2,7 +2,7 @@
     "bootcamps": [
         {
             "name": "Bootcamp - fulltime : octubre / diciembre 2018",
-            "bootcampId": "1.1",
+            "_id": "1.1",
             "weeks":[
                 "semana 1 - 02/09/2018 - 08/09/2018",
                 "semana 2 - 09/09/2018 - 16/09/2018",
@@ -363,6 +363,14 @@
                     "_id": "1.112351",
                     "bootcampId": "1.1",
                     "description": "Jaime es sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
+                    "data": {
+                        "telefono":{"label":"teléfono","content":"686789987"},
+                        "email":{"label":"email","content":"jdemiguel@gmail.com"},
+                        "domicilio":{"label":"domicilio","content":"Av Constitución 12, 4:B"},
+                        "codigoPostal":{"label":"código postal","content":"28934"},
+                        "dni":{"label":"dni / pasaporte","content":"46478874A"},
+                        "fechaNacimiento":{"label":"fecha de nacimiento","content":"12/02/1980"}
+                    },
                     "links": [
                         {
                             "content": "Github",
@@ -384,6 +392,14 @@
                     "_id": "1.112352",
                     "bootcampId": "1.1",
                     "description": "Alberto es sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
+                    "data": {
+                        "telefono":{"label":"teléfono","content":"667834512"},
+                        "email":{"label":"email","content":"albertrojas@gmail.com"},
+                        "domicilio":{"label":"domicilio","content":"Calle Carlos III 2, 8:C"},
+                        "codigoPostal":{"label":"código postal","content":"28908"},
+                        "dni":{"label":"dni / pasaporte","content":"45587902A"},
+                        "fechaNacimiento":{"label":"fecha de nacimiento","content":"05/04/1981"}
+                    },
                     "links": [
                         {
                             "content": "Github",
@@ -405,6 +421,14 @@
                     "_id": "1.112353",
                     "bootcampId": "1.1",
                     "description": "Elena es sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
+                    "data": {
+                        "telefono":{"label":"teléfono","content":"621756342"},
+                        "email":{"label":"email","content":"elenatome@gmail.com"},
+                        "domicilio":{"label":"domicilio","content":"Av De Los Poblados 24, 1:H"},
+                        "codigoPostal":{"label":"código postal","content":"28902"},
+                        "dni":{"label":"dni / pasaporte","content":"44540014D"},
+                        "fechaNacimiento":{"label":"fecha de nacimiento","content":"22/11/1978"}
+                    },
                     "links": [
                         {
                             "content": "Github",
