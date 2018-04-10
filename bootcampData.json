@@ -60,7 +60,7 @@
                             "url": "https://twitter.com"
                         }
                     ],
-                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/alumno1.jpg",
+                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake_jaime/master/img/alumno1.jpg",
                     "weekComments":[
                         {"weekName": "semana 1 - 02/09/2018 - 08/09/2018", "comment":"Rocío ha empezado bastante bien, pese a que apenas tiene conocimientos previos, posée una enorme capacidad de esfuerzo."},
                         {"weekName": "semana 2 - 09/09/2018 - 16/09/2018", "comment":"Esta semana Rocío ha bajado un poco el listón y se ha notado en su ritmo de aprendizaje"},
@@ -117,7 +117,7 @@
                             "url": "https://twitter.com"
                         }
                     ],
-                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/alumno2.jpg",
+                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake_jaime/master/img/alumno2.jpg",
                     "weekComments":[
                         {"weekName": "semana 1 - 02/09/2018 - 08/09/2018", "comment":""},
                         {"weekName": "semana 2 - 09/09/2018 - 16/09/2018", "comment":""},
@@ -174,7 +174,7 @@
                             "url": "https://twitter.com"
                         }
                     ],
-                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/alumno3.jpg",
+                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake_jaime/master/img/alumno3.jpg",
                     "weekComments":[
                         {"weekName": "semana 1 - 02/09/2018 - 08/09/2018", "comment":""},
                         {"weekName": "semana 2 - 09/09/2018 - 16/09/2018", "comment":""},
@@ -231,7 +231,7 @@
                             "url": "https://twitter.com"
                         }
                     ],
-                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/alumno4.jpg",
+                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake_jaime/master/img/alumno4.jpg",
                     "weekComments":[
                         {"weekName": "semana 1 - 02/09/2018 - 08/09/2018", "comment":""},
                         {"weekName": "semana 2 - 09/09/2018 - 16/09/2018", "comment":""},
@@ -288,7 +288,7 @@
                             "url": "https://twitter.com"
                         }
                     ],
-                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/alumno5.jpg",
+                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake_jaime/master/img/alumno5.jpg",
                     "weekComments":[
                         {"weekName": "semana 1 - 02/09/2018 - 08/09/2018", "comment":""},
                         {"weekName": "semana 2 - 09/09/2018 - 16/09/2018", "comment":""},
@@ -345,7 +345,7 @@
                             "url": "https://twitter.com"
                         }
                     ],
-                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/alumno6.jpg",
+                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake_jaime/master/img/alumno6.jpg",
                     "weekComments":[
                         {"weekName": "semana 1 - 02/09/2018 - 08/09/2018", "comment":""},
                         {"weekName": "semana 2 - 09/09/2018 - 16/09/2018", "comment":""},
@@ -385,7 +385,7 @@
                             "url": "https://twitter.com"
                         }
                     ],
-                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/profesor1.jpg"
+                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake_jaime/master/img/profesor1.jpg"
                 },
                 {
                     "name": "Alberto Rojas Rodríguez",
@@ -414,7 +414,7 @@
                             "url": "https://twitter.com"
                         }
                     ],
-                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/profesor2.jpg"
+                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake_jaime/master/img/profesor2.jpg"
                 },
                 {
                     "name": "Elena Tomelloso Ruiz",
@@ -443,7 +443,7 @@
                             "url": "https://twitter.com"
                         }
                     ],
-                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/profesor3.jpg"
+                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake_jaime/master/img/profesor3.jpg"
                 }        
             ]
         }
