@@ -1,6 +1,6 @@
 {
-    "indice":{
-        "path": "https://raw.githubusercontent.com/CODENOTCH/bbdk_fake_jaime/master/indice.json"
+    "Index":{
+        "Route": "https://raw.githubusercontent.com/CODENOTCH/bbdk_fake_jaime/master/indice.json"
     },
 
     "programa":[
