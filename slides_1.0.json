@@ -1,4 +1,6 @@
 {
-    "ids":["1.0.0"],
-    "links": ["https://jdmiguel.com/codenotch_data/pdf/slide_1.0.0.pdf#toolbar=0&navpanes=0&scrollbar=0"]
+    "Slideids":["1.0.0"],
+    "Routes": ["https://jdmiguel.com/codenotch_data/pdf/slide_1.0.0.pdf#toolbar=0&navpanes=0&scrollbar=0"],
+    "_id": "5acb366cf33af20014d478a2",
+    "__v": 0
 }
